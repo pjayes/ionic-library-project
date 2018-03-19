@@ -2,5 +2,7 @@
   "name": "uni-lib",
   "app_id": "",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
